@@ -1,0 +1,104 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point 1",
+        "description": "Description of Point 1"
+      },
+      "geometry": {
+        "coordinates": [77.5946, 12.9716],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point 2",
+        "description": "Description of Point 2"
+      },
+      "geometry": {
+        "coordinates": [72.8777, 19.076],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point 3",
+        "description": "Description of Point 3"
+      },
+      "geometry": {
+        "coordinates": [78.4867, 17.385],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point 4",
+        "description": "Description of Point 4"
+      },
+      "geometry": {
+        "coordinates": [77.1025, 28.7041],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point 5",
+        "description": "Description of Point 5"
+      },
+      "geometry": {
+        "coordinates": [72.5714, 23.0225],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point 6",
+        "description": "Description of Point 6"
+      },
+      "geometry": {
+        "coordinates": [77.35, 18.5204],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point 7",
+        "description": "Description of Point 7"
+      },
+      "geometry": {
+        "coordinates": [79.0882, 21.1458],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point 8",
+        "description": "Description of Point 8"
+      },
+      "geometry": {
+        "coordinates": [73.8567, 18.5204],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point 9",
+        "description": "Description of Point 9"
+      },
+      "geometry": {
+        "coordinates": [77.1025, 20.5937],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
